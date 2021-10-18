@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1CksVCtRUxuGavZ6LPLC6u3mn7+rgaFqZFm6rg4wz31BPj3Lm2cc/UULaNyc2GqjKr6Muzj8RlD6jRtiMjruIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shiza\\source\\repos\\Try1\\Try1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shiza\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.19\\microsoft.netcore.app.runtime.win-x64.3.1.19.nupkg.sha512",
+    "C:\\Users\\Shiza\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.19\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.19.nupkg.sha512",
+    "C:\\Users\\Shiza\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.19\\microsoft.aspnetcore.app.runtime.win-x64.3.1.19.nupkg.sha512"
+  ],
+  "logs": []
+}
